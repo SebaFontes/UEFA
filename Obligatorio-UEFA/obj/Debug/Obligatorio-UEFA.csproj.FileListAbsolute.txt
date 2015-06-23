@@ -1,0 +1,10 @@
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\obj\Debug\Obligatorio_UEFA.Torneo.resources
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\obj\Debug\Obligatorio_UEFA.Properties.Resources.resources
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\obj\Debug\Obligatorio-UEFA.csproj.GenerateResource.Cache
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\bin\Debug\Obligatorio-UEFA.exe.config
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\bin\Debug\Obligatorio-UEFA.exe
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\bin\Debug\Obligatorio-UEFA.pdb
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\obj\Debug\Obligatorio-UEFA.exe
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\obj\Debug\Obligatorio-UEFA.pdb
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\obj\Debug\Obligatorio-UEFA.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo\documents\visual studio 2013\Projects\Obligatorio-UEFA\Obligatorio-UEFA\obj\Debug\Obligatorio_UEFA.Forms.Equipos.resources
